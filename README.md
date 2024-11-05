@@ -1,2 +1,2 @@
 # OCR-BankStatements
-My first Repo
+Using GPT-4o for extracting data from bank statements
